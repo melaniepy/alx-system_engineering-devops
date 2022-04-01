@@ -1,1 +1,2 @@
-my second readme
+#!/bin/bash
+ALX devops repository 
