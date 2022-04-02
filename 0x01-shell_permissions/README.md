@@ -12,3 +12,5 @@ Script that creates an empty file
 Script to change owners permission to execute
 ### Script 6
 Script to add multiple permissions
+### Script 7
+Script to add execute permission to others
