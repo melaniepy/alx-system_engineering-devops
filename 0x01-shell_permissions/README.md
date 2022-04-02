@@ -14,3 +14,5 @@ Script to change owners permission to execute
 Script to add multiple permissions
 ### Script 7
 Script to add execute permission to others
+### Script 8
+Script to set permission to the file hello
