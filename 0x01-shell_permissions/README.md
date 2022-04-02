@@ -16,3 +16,5 @@ Script to add multiple permissions
 Script to add execute permission to others
 ### Script 8
 Script to set permission to the file hello
+### Script 9
+Script to set the mode of the file
