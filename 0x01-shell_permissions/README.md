@@ -10,3 +10,5 @@ Script to change file ownership to betty
 Script that creates an empty file
 ### Script 5
 Script to change owners permission to execute
+### Script 6
+Script to add multiple permissions
